@@ -1,20 +1,29 @@
 # StrongPass
-Ferramenta para gerar senhas fortes aleatórias
 
-📱 INSTALAÇÃO (TERMUX/LINUX)
+**Ferramenta para gerar senhas fortes aleatórias.**
 
-1- apt install git
+📱 INSTALAÇÃO 
 
-2- apt install python3
+1- instalar git
+`pkg install git`
 
-3- git clone https://github.com/DarkZer010/StrongPass/
+2- instalar python
+`pkg install python3`
 
-4- cd StrongPass
+3- clonar repositório
+`git clone https://github.com/DarkZer010/StrongPass/`
 
-5- pip install -r requirements.txt
+4- entrar na pasta
+`cd StrongPass`
 
-6- python3 StrongPass.py
+5- instalar os requisitos
+`pip install -r requirements.txt`
 
-⚠️ Use com responsabilidade, mesmo que talvez não possa ser usada pra fins maliciosos.
+6- iniciar script
+`python3 StrongPass.py`
 
-By DarkZer0
+## Aviso
+
+*⚠️ Use com responsabilidade, mesmo que talvez não possa ser usada pra fins maliciosos.*
+
+Por DarkZer0
