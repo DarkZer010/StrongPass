@@ -24,6 +24,6 @@
 
 ## Aviso
 
-*⚠️ Use com responsabilidade, mesmo que talvez não possa ser usada pra fins maliciosos.*
+*Obrigado por usar minha ferramenta, espero que suas senhas fique seguras agr.*
 
-Por DarkZer0
+**Por DarkZer0**
